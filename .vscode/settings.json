@@ -1,4 +1,3 @@
 {
-    "python.pythonPath": "C:\\Users\\Groot\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
-    "python.linting.enabled": false
+    "python.pythonPath": "C:\\Users\\Groot\\anaconda3\\envs\\flasktestapp\\python.exe"
 }
